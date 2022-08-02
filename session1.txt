@@ -1,0 +1,93 @@
+    1  git status
+    2  git init
+    3  git status
+    4  touch index.html
+    5  git status
+    6  git add index.html
+    7  git status
+    8  git commit -m "intial commit"
+    9  git status
+   10  git status
+   11  git status
+   12  git add style.css
+   13  git status
+   14  git add index.html
+   15  git status
+   16  git commit -m "modify index and add a new style.css"
+   17  git status
+   18  git status
+   19  git status
+   20  git init 
+   21  touch index.html
+   22  touch style.css
+   23  git add index.html
+   24  git add style.css
+   25  git status
+   26  git commit -m "intial commit by Aqsa"
+   27  git status
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "Modified index and style and added index js"
+   32  git status
+   33  git remote add origin https://github.com/SabaYasmeen21/Sweetshop.git
+   34  git remote
+   35  git push -u origin
+   36  git push -u origin master
+   37  git push -u origin master
+   38  touch about.html
+   39  git add about.html
+   40  git commit -m "added about.html"
+   41  git push -u origin master
+   42  git status
+   43  git add contact.html
+   44  git commit -m "added contcat page"
+   45  git push -u origin master
+   46  git clone https://github.com/SabaYasmeen21/sweetbakers.git
+   47  git clone https://github.com/SabaYasmeen21/sweetbakers.git
+   48  git clone https://github.com/SabaYasmeen21/sweetbakers.git
+   49  touch about .html
+   50  git reset --cached .html
+   51  git reset --cached about .html
+   52  touch about.html
+   53  git add .
+   54  git commit -m "added about.html"
+   55  git push -u origin master
+   56  git pull origin
+   57  history >> sweetshop.txt
+   58  git init 
+   59  git add .
+   60  git commit -m "intial commit"
+   61  git status
+   62  git remote
+   63  git remote add origin https://github.com/SabaYasmeen21/sweetbakers.git
+   64  git remote
+   65  git push -u origin master
+   66  git contact.html
+   67  touch contact.html
+   68  git pull origin
+   69  git add . 
+   70  git commit -m "contact.html"
+   71  git push -u origin master
+   72  history >> sweetaqsa.txt
+   73  touch index.html
+   74  mkdir css
+   75  touch css/style.css
+   76  git init
+   77  git add index.html
+   78  git add css/style.css
+   79  git status
+   80  touch about.html
+   81  git status
+   82  git add about.html
+   83  git status
+   84  git commit -m "Initial commit"
+   85  git status
+   86  touch contact.html
+   87  git status
+   88  git add .
+   89  git commit
+   90  git commit
+   91  git commit -m "Added Contact.html"
+   92  git status
+   93  history>> session1.txt
